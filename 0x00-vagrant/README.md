@@ -1,0 +1,1 @@
+This project is about creating a Linux virtual machine, a git hub account, a repository and committing files to it
